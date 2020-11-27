@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">desafio_password</string>
+    <string name="etxt_1">Password</string>
+    <string name="tv1">resultado</string>
+</resources>
